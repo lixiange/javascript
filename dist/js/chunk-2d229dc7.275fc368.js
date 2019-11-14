@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d229dc7"],{def6:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" 电影列表 ")])},u=[],r={data:function(){return{}}},a=r,d=t("2877"),i=Object(d["a"])(a,c,u,!1,null,"5cd3b809",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d229dc7.275fc368.js.map
